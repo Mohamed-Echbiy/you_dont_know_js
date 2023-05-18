@@ -1,0 +1,11 @@
+{
+  "name": "you_dont_know_js",
+  "version": "1.0.0",
+  "description": "the main for this project is to help me understand more javascript and deep dive it in it I am reading you dont know js and also when something go hard on me you will see some conversation don't get confuse I this conversation are between me and chatGpt",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
